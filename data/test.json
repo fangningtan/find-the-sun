@@ -1,0 +1,37 @@
+{
+  "type": "FeatureCollection",
+  "name": "National_Nature_Reserves___Natural_England",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "OBJECTID": 1,
+        "NNR_NAME": "Winterton Dunes",
+        "NNR_AREA": 84.424766505935281,
+        "EASTING": 648934.716503,
+        "NORTHING": 320874.81506200001,
+        "LATITUDE": "52:44:18N",
+        "LONGITUDE": "1:41:07E",
+        "REFERENCE": "TG489208",
+        "STATUS": "Declared",
+        "GID": 1006159.0,
+        "GIS_FILE": "",
+        "NUMBER": "",
+        "AREA": 84.424766505935281,
+        "EASTING0": 648934.716503,
+        "NORTHING0": 320874.81506200001,
+        "GIS_DATE": "20031110",
+        "VERSION": 1,
+        "GlobalID": "{8DAE5A76-519F-437E-8A09-7A6C88906187}",
+        "SHAPE_Length": 0.090326119111601863,
+        "SHAPE_Area": 0.00011221058951756292
+      }
+    }
+  ]
+}

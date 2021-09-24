@@ -1,0 +1,1810 @@
+[
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Winterton Dunes",
+      "LONGITUDE": "1:41:07E",
+      "LATITUDE": "52:44:18N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Aqualate Mere",
+      "LONGITUDE": "2:20:19W",
+      "LATITUDE": "52:47:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Barton Hills",
+      "LONGITUDE": "0:25:02W",
+      "LATITUDE": "51:57:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bassenthwaite Lake",
+      "LONGITUDE": "3:13:07W",
+      "LATITUDE": "54:39:05N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Beacon Hill",
+      "LONGITUDE": "1:08:28W",
+      "LATITUDE": "51:00:00N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Kingston Great Common",
+      "LONGITUDE": "1:44:24W",
+      "LATITUDE": "50:49:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bedford Purlieus",
+      "LONGITUDE": "0:28:09W",
+      "LATITUDE": "52:35:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Berry Head",
+      "LONGITUDE": "3:29:24W",
+      "LATITUDE": "50:24:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Blackwater Estuary",
+      "LONGITUDE": "0:52:00E",
+      "LATITUDE": "51:47:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Blelham Bog",
+      "LONGITUDE": "2:59:17W",
+      "LATITUDE": "54:24:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Westhay Moor",
+      "LONGITUDE": "2:47:02W",
+      "LATITUDE": "51:12:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dunkery & Horner Wood",
+      "LONGITUDE": "3:36:16W",
+      "LATITUDE": "51:11:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Tarr Steps Woodland",
+      "LONGITUDE": "3:38:29W",
+      "LATITUDE": "51:05:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dendles Wood",
+      "LONGITUDE": "3:57:05W",
+      "LATITUDE": "50:26:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Black-a-Tor Copse",
+      "LONGITUDE": "4:02:12W",
+      "LATITUDE": "50:41:00N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Buckingham Thick Copse",
+      "LONGITUDE": "0:58:07W",
+      "LATITUDE": "52:05:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Castle Bottom",
+      "LONGITUDE": "0:52:28W",
+      "LATITUDE": "51:20:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Castor Hanglands",
+      "LONGITUDE": "0:21:05W",
+      "LATITUDE": "52:36:02N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cavenham Heath",
+      "LONGITUDE": "0:34:06E",
+      "LATITUDE": "52:20:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Chaddesley Woods",
+      "LONGITUDE": "2:08:24W",
+      "LATITUDE": "52:22:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Charnwood Lodge",
+      "LONGITUDE": "1:19:18W",
+      "LATITUDE": "52:44:02N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Scoska Wood",
+      "LONGITUDE": "2:08:05W",
+      "LATITUDE": "54:09:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Newham Bog",
+      "LONGITUDE": "1:44:03W",
+      "LATITUDE": "55:34:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Chimney Meadows",
+      "LONGITUDE": "1:29:29W",
+      "LATITUDE": "51:42:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cliburn Moss",
+      "LONGITUDE": "2:39:17W",
+      "LATITUDE": "54:37:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Duncombe Park",
+      "LONGITUDE": "1:04:07W",
+      "LATITUDE": "54:14:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wistman's Wood",
+      "LONGITUDE": "3:58:29W",
+      "LATITUDE": "50:35:00N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Monks Wood",
+      "LONGITUDE": "0:14:26W",
+      "LATITUDE": "52:24:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Far Ings",
+      "LONGITUDE": "0:28:02W",
+      "LATITUDE": "53:42:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Foster's Green Meadows",
+      "LONGITUDE": "2:02:00W",
+      "LATITUDE": "52:17:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Weeting Heath",
+      "LONGITUDE": "0:35:17E",
+      "LATITUDE": "52:28:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Slapton Ley",
+      "LONGITUDE": "3:39:06W",
+      "LATITUDE": "50:17:04N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Collyweston Great Wood & Easton Hornstocks",
+      "LONGITUDE": "0:30:14W",
+      "LATITUDE": "52:35:24N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Colne Estuary",
+      "LONGITUDE": "0:59:00E",
+      "LATITUDE": "51:47:04N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cribbs Meadow",
+      "LONGITUDE": "0:40:07W",
+      "LATITUDE": "52:46:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Kielder Mires",
+      "LONGITUDE": "2:29:10W",
+      "LATITUDE": "55:07:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Kielderhead",
+      "LONGITUDE": "2:30:03W",
+      "LATITUDE": "55:15:18N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Kinder Scout",
+      "LONGITUDE": "1:53:01W",
+      "LATITUDE": "53:23:05N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Knocking Hoe",
+      "LONGITUDE": "0:21:16W",
+      "LATITUDE": "51:58:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Leigh",
+      "LONGITUDE": "0:39:19E",
+      "LATITUDE": "51:32:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ling Gill",
+      "LONGITUDE": "2:18:25W",
+      "LATITUDE": "54:12:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Thetford Heath",
+      "LONGITUDE": "0:43:16E",
+      "LATITUDE": "52:23:17N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Thornhill Moss & Meadows",
+      "LONGITUDE": "3:17:15W",
+      "LATITUDE": "54:49:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Fyfield Down",
+      "LONGITUDE": "1:48:23W",
+      "LATITUDE": "51:26:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Gibraltar Point",
+      "LONGITUDE": "0:20:06E",
+      "LATITUDE": "53:06:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Golitha Falls",
+      "LONGITUDE": "4:30:15W",
+      "LATITUDE": "50:29:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Gordano Valley",
+      "LONGITUDE": "2:49:08W",
+      "LATITUDE": "51:27:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Gowk Bank",
+      "LONGITUDE": "2:30:09W",
+      "LATITUDE": "55:04:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hales Wood",
+      "LONGITUDE": "0:17:25E",
+      "LATITUDE": "52:02:21N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hallsenna Moor",
+      "LONGITUDE": "3:26:25W",
+      "LATITUDE": "54:24:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ham Wall",
+      "LONGITUDE": "2:46:29W",
+      "LATITUDE": "51:09:24N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hardington Moor",
+      "LONGITUDE": "2:41:27W",
+      "LATITUDE": "50:55:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hawkcombe Woods",
+      "LONGITUDE": "3:37:29W",
+      "LATITUDE": "51:12:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "High Halstow",
+      "LONGITUDE": "0:34:16E",
+      "LATITUDE": "51:27:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "High Leys",
+      "LONGITUDE": "3:27:01W",
+      "LATITUDE": "54:33:02N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Holme Dunes",
+      "LONGITUDE": "0:33:19E",
+      "LATITUDE": "52:58:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Horn Park Quarry",
+      "LONGITUDE": "2:46:18W",
+      "LATITUDE": "50:49:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hulme Quarry",
+      "LONGITUDE": "2:06:28W",
+      "LATITUDE": "52:60:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Huntspill River",
+      "LONGITUDE": "2:58:24W",
+      "LATITUDE": "51:12:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Great Asby Scar",
+      "LONGITUDE": "2:32:00W",
+      "LATITUDE": "54:29:00N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Shapwick Heath",
+      "LONGITUDE": "2:49:00W",
+      "LATITUDE": "51:10:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Lullington Heath",
+      "LONGITUDE": "0:11:24E",
+      "LATITUDE": "50:48:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Moccas Park",
+      "LONGITUDE": "2:58:14W",
+      "LATITUDE": "52:05:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Donna Nook",
+      "LONGITUDE": "0:11:20E",
+      "LATITUDE": "53:27:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Saltfleetby - Theddlethorpe Dunes",
+      "LONGITUDE": "0:14:27E",
+      "LATITUDE": "53:23:18N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Spurn",
+      "LONGITUDE": "0:08:12E",
+      "LATITUDE": "53:35:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Holkham",
+      "LONGITUDE": "0:51:22E",
+      "LATITUDE": "52:58:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Benacre",
+      "LONGITUDE": "1:42:17E",
+      "LATITUDE": "52:23:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Muckle Moss",
+      "LONGITUDE": "2:19:01W",
+      "LATITUDE": "54:60:13N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Westleton Heath",
+      "LONGITUDE": "1:36:03E",
+      "LATITUDE": "52:16:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hambledon Hill",
+      "LONGITUDE": "2:13:17W",
+      "LATITUDE": "50:55:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dunsdon",
+      "LONGITUDE": "4:25:07W",
+      "LATITUDE": "50:51:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Malham Tarn",
+      "LONGITUDE": "2:10:05W",
+      "LATITUDE": "54:06:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "North Fen",
+      "LONGITUDE": "2:59:20W",
+      "LATITUDE": "54:22:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "New House Farm, Malham",
+      "LONGITUDE": "2:06:20W",
+      "LATITUDE": "54:04:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Old Winchester Hill",
+      "LONGITUDE": "1:05:07W",
+      "LATITUDE": "50:59:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ruislip Woods",
+      "LONGITUDE": "0:25:24W",
+      "LATITUDE": "51:35:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Sandwich & Pegwell Bay",
+      "LONGITUDE": "1:23:27E",
+      "LATITUDE": "51:19:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Sandybeck Meadow",
+      "LONGITUDE": "3:21:28W",
+      "LATITUDE": "54:38:15N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Rostherne Mere",
+      "LONGITUDE": "2:23:08W",
+      "LATITUDE": "53:21:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Rusland Moss",
+      "LONGITUDE": "3:01:27W",
+      "LATITUDE": "54:17:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Stiperstones",
+      "LONGITUDE": "2:56:02W",
+      "LATITUDE": "52:36:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Sutton Park",
+      "LONGITUDE": "1:51:21W",
+      "LATITUDE": "52:34:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "The Flits",
+      "LONGITUDE": "2:54:27W",
+      "LATITUDE": "52:04:09N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Upwood Meadows",
+      "LONGITUDE": "0:10:20W",
+      "LATITUDE": "52:26:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cothill",
+      "LONGITUDE": "1:20:12W",
+      "LATITUDE": "51:42:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Thrislington",
+      "LONGITUDE": "1:31:15W",
+      "LATITUDE": "54:41:18N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Burnham Beeches",
+      "LONGITUDE": "0:38:10W",
+      "LATITUDE": "51:33:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Paston Great Barn",
+      "LONGITUDE": "1:27:07E",
+      "LATITUDE": "52:51:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Gait Barrows",
+      "LONGITUDE": "2:48:02W",
+      "LATITUDE": "54:11:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bredon Hill",
+      "LONGITUDE": "2:05:09W",
+      "LATITUDE": "52:03:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dawlish Warren",
+      "LONGITUDE": "3:26:10W",
+      "LATITUDE": "50:36:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "North Meadow, Cricklade",
+      "LONGITUDE": "1:52:00W",
+      "LATITUDE": "51:39:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ashford Hill",
+      "LONGITUDE": "1:12:19W",
+      "LATITUDE": "51:21:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "North Walney",
+      "LONGITUDE": "3:16:26W",
+      "LATITUDE": "54:09:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Titchfield Haven",
+      "LONGITUDE": "1:14:17W",
+      "LATITUDE": "50:50:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Valley of Stones",
+      "LONGITUDE": "2:34:19W",
+      "LATITUDE": "50:41:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Lewes Downs (Mount Caburn)",
+      "LONGITUDE": "0:03:01E",
+      "LATITUDE": "50:52:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ashtead Common",
+      "LONGITUDE": "0:19:14W",
+      "LATITUDE": "51:19:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Swanscombe Skull Site",
+      "LONGITUDE": "0:18:07E",
+      "LATITUDE": "51:27:17N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wye",
+      "LONGITUDE": "0:58:10E",
+      "LATITUDE": "51:10:09N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wem Moss",
+      "LONGITUDE": "2:47:01W",
+      "LATITUDE": "52:54:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Sandscale Haws",
+      "LONGITUDE": "3:15:25W",
+      "LATITUDE": "54:10:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bardney Limewoods",
+      "LONGITUDE": "0:19:29W",
+      "LATITUDE": "53:12:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Clawthorpe Fell",
+      "LONGITUDE": "2:43:26W",
+      "LATITUDE": "54:12:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hutton Roof",
+      "LONGITUDE": "2:42:29W",
+      "LATITUDE": "54:12:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Calthorpe Broad",
+      "LONGITUDE": "1:34:25E",
+      "LATITUDE": "52:47:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Whitelee Moor",
+      "LONGITUDE": "2:29:16W",
+      "LATITUDE": "55:20:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wychwood",
+      "LONGITUDE": "1:31:05W",
+      "LATITUDE": "51:51:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wylye Down",
+      "LONGITUDE": "1:60:06W",
+      "LATITUDE": "51:07:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Finglandrigg Woods",
+      "LONGITUDE": "3:08:13W",
+      "LATITUDE": "54:54:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ham Street Woods",
+      "LONGITUDE": "0:52:01E",
+      "LATITUDE": "51:04:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Pevensey Levels",
+      "LONGITUDE": "0:21:27E",
+      "LATITUDE": "50:50:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Butser Hill",
+      "LONGITUDE": "0:59:00W",
+      "LATITUDE": "50:58:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Greenlee Lough",
+      "LONGITUDE": "2:22:15W",
+      "LATITUDE": "55:01:15N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ingleborough",
+      "LONGITUDE": "2:22:02W",
+      "LATITUDE": "54:11:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Farne Islands",
+      "LONGITUDE": "1:39:15W",
+      "LATITUDE": "55:37:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Downton Gorge",
+      "LONGITUDE": "2:49:27W",
+      "LATITUDE": "52:22:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Kingley Vale",
+      "LONGITUDE": "0:50:15W",
+      "LATITUDE": "50:54:17N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Chartley Moss",
+      "LONGITUDE": "1:58:00W",
+      "LATITUDE": "52:51:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bridgwater Bay",
+      "LONGITUDE": "3:03:27W",
+      "LATITUDE": "51:13:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Lydden Temple Ewell",
+      "LONGITUDE": "1:16:04E",
+      "LATITUDE": "51:09:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Redgrave & Lopham Fen",
+      "LONGITUDE": "1:01:27E",
+      "LATITUDE": "52:23:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Leigh Woods",
+      "LONGITUDE": "2:38:07W",
+      "LATITUDE": "51:27:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Barnack Hills and Holes",
+      "LONGITUDE": "0:25:16W",
+      "LATITUDE": "52:38:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Highbury Wood",
+      "LONGITUDE": "2:40:05W",
+      "LATITUDE": "51:46:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Drumburgh Moss",
+      "LONGITUDE": "3:10:07W",
+      "LATITUDE": "54:55:02N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "South Solway Mosses",
+      "LONGITUDE": "3:13:03W",
+      "LATITUDE": "54:52:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "The Hudnalls",
+      "LONGITUDE": "2:41:19W",
+      "LATITUDE": "51:43:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dersingham Bog",
+      "LONGITUDE": "0:29:01E",
+      "LATITUDE": "52:50:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Blean Woods",
+      "LONGITUDE": "1:01:01E",
+      "LATITUDE": "51:18:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Castle Hill",
+      "LONGITUDE": "0:03:05W",
+      "LATITUDE": "50:51:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Sherwood Forest",
+      "LONGITUDE": "1:05:15W",
+      "LATITUDE": "53:13:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wybunbury Moss",
+      "LONGITUDE": "2:27:12W",
+      "LATITUDE": "53:03:05N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Smardale Gill",
+      "LONGITUDE": "2:25:13W",
+      "LATITUDE": "54:28:24N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Barrington Hill",
+      "LONGITUDE": "2:60:08W",
+      "LATITUDE": "50:57:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Castle Eden Dene",
+      "LONGITUDE": "1:20:14W",
+      "LATITUDE": "54:45:02N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Durham Coast",
+      "LONGITUDE": "1:15:08W",
+      "LATITUDE": "54:44:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Derbyshire Dales",
+      "LONGITUDE": "1:44:22W",
+      "LATITUDE": "53:15:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dengie",
+      "LONGITUDE": "0:57:25E",
+      "LATITUDE": "51:41:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Chippenham Fen",
+      "LONGITUDE": "0:25:06E",
+      "LATITUDE": "52:18:05N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Holme Fen",
+      "LONGITUDE": "0:13:26W",
+      "LATITUDE": "52:29:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wicken Fen",
+      "LONGITUDE": "0:17:16E",
+      "LATITUDE": "52:18:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ebernoe Common",
+      "LONGITUDE": "0:37:28W",
+      "LATITUDE": "51:02:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Woodwalton Fen",
+      "LONGITUDE": "0:12:29W",
+      "LATITUDE": "52:27:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Broxbourne Woods",
+      "LONGITUDE": "0:05:21W",
+      "LATITUDE": "51:44:09N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hog Cliff",
+      "LONGITUDE": "2:33:24W",
+      "LATITUDE": "50:47:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Stodmarsh",
+      "LONGITUDE": "1:12:23E",
+      "LATITUDE": "51:19:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Humberhead Peatlands",
+      "LONGITUDE": "0:54:12W",
+      "LATITUDE": "53:38:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Axmouth to Lyme Regis Undercliffs",
+      "LONGITUDE": "2:60:18W",
+      "LATITUDE": "50:42:24N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Muston Meadows",
+      "LONGITUDE": "0:47:27W",
+      "LATITUDE": "52:55:15N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hamford Water",
+      "LONGITUDE": "1:14:18E",
+      "LATITUDE": "51:53:04N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Lady Park Wood",
+      "LONGITUDE": "2:39:27W",
+      "LATITUDE": "51:50:25N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bure Marshes",
+      "LONGITUDE": "1:28:24E",
+      "LATITUDE": "52:42:24N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hickling Broad",
+      "LONGITUDE": "1:35:20E",
+      "LATITUDE": "52:44:02N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "How Hill",
+      "LONGITUDE": "1:30:11E",
+      "LATITUDE": "52:43:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ludham & Potter Heigham Marshes",
+      "LONGITUDE": "1:34:18E",
+      "LATITUDE": "52:42:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Martham Broad",
+      "LONGITUDE": "1:38:14E",
+      "LATITUDE": "52:44:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Mid-Yare",
+      "LONGITUDE": "1:28:17E",
+      "LATITUDE": "52:36:09N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ant Broads and Marshes",
+      "LONGITUDE": "1:30:12E",
+      "LATITUDE": "52:44:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ebbor Gorge",
+      "LONGITUDE": "2:41:09W",
+      "LATITUDE": "51:14:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Rodney Stoke",
+      "LONGITUDE": "2:44:11W",
+      "LATITUDE": "51:15:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Richmond Park",
+      "LONGITUDE": "0:17:24W",
+      "LATITUDE": "51:27:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Skipwith Common",
+      "LONGITUDE": "1:00:04W",
+      "LATITUDE": "53:50:18N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Mottey Meadows",
+      "LONGITUDE": "2:14:20W",
+      "LATITUDE": "52:43:00N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Duddon Mosses",
+      "LONGITUDE": "3:12:25W",
+      "LATITUDE": "54:16:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Parsonage Down",
+      "LONGITUDE": "1:55:24W",
+      "LATITUDE": "51:10:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Prescombe Down",
+      "LONGITUDE": "2:01:20W",
+      "LATITUDE": "51:02:18N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Tarn Moss",
+      "LONGITUDE": "2:56:07W",
+      "LATITUDE": "54:38:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Chobham Common",
+      "LONGITUDE": "0:36:02W",
+      "LATITUDE": "51:22:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Thursley",
+      "LONGITUDE": "0:42:00W",
+      "LATITUDE": "51:10:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "The Lizard",
+      "LONGITUDE": "5:11:16W",
+      "LATITUDE": "50:02:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "The Wash",
+      "LONGITUDE": "0:19:28E",
+      "LATITUDE": "52:51:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Teesmouth",
+      "LONGITUDE": "1:11:03W",
+      "LATITUDE": "54:38:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Calke Park",
+      "LONGITUDE": "1:28:18W",
+      "LATITUDE": "52:48:09N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Pewsey Downs",
+      "LONGITUDE": "1:51:00W",
+      "LATITUDE": "51:22:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Forge Valley Woods",
+      "LONGITUDE": "0:29:15W",
+      "LATITUDE": "54:16:00N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Roydon Common",
+      "LONGITUDE": "0:30:05E",
+      "LATITUDE": "52:46:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Whitbarrow",
+      "LONGITUDE": "2:51:02W",
+      "LATITUDE": "54:16:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cotswold Commons and Beechwoods",
+      "LONGITUDE": "2:09:26W",
+      "LATITUDE": "51:48:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Roudsea Wood and Mosses",
+      "LONGITUDE": "3:01:18W",
+      "LATITUDE": "54:14:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dungeness",
+      "LONGITUDE": "0:57:00E",
+      "LATITUDE": "50:56:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "East Dartmoor Woods & Heaths",
+      "LONGITUDE": "3:44:06W",
+      "LATITUDE": "50:36:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bradfield Woods",
+      "LONGITUDE": "0:49:28E",
+      "LATITUDE": "52:11:04N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Elmley",
+      "LONGITUDE": "0:48:03E",
+      "LATITUDE": "51:23:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "The Swale",
+      "LONGITUDE": "0:56:23E",
+      "LATITUDE": "51:22:04N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ainsdale Sand Dunes",
+      "LONGITUDE": "3:05:18W",
+      "LATITUDE": "53:35:10N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cabin Hill",
+      "LONGITUDE": "3:05:01W",
+      "LATITUDE": "53:32:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Scolt Head Island",
+      "LONGITUDE": "0:42:01E",
+      "LATITUDE": "52:59:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Blakeney",
+      "LONGITUDE": "0:59:11E",
+      "LATITUDE": "52:58:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Goss Moor",
+      "LONGITUDE": "4:53:29W",
+      "LATITUDE": "50:24:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Dovedale",
+      "LONGITUDE": "1:47:02W",
+      "LATITUDE": "53:04:11N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Aston Rowant",
+      "LONGITUDE": "0:57:01W",
+      "LATITUDE": "51:40:12N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Swanton Novers",
+      "LONGITUDE": "0:59:18E",
+      "LATITUDE": "52:50:15N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Somerset Levels",
+      "LONGITUDE": "2:55:26W",
+      "LATITUDE": "51:04:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Brettenham Heath",
+      "LONGITUDE": "0:50:07E",
+      "LATITUDE": "52:26:17N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Foxley Wood",
+      "LONGITUDE": "1:03:25E",
+      "LATITUDE": "52:46:17N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Derwent Gorge and Muggleswick Woods",
+      "LONGITUDE": "1:55:10W",
+      "LATITUDE": "54:50:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Moor House-Upper Teesdale",
+      "LONGITUDE": "2:14:29W",
+      "LATITUDE": "54:38:23N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Lindisfarne",
+      "LONGITUDE": "1:50:18W",
+      "LATITUDE": "55:40:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Suffolk Coast",
+      "LONGITUDE": "1:38:02E",
+      "LATITUDE": "52:18:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wren's Nest",
+      "LONGITUDE": "2:06:12W",
+      "LATITUDE": "52:31:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Arne Reedbeds",
+      "LONGITUDE": "2:04:15W",
+      "LATITUDE": "50:41:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Bolton Fell and Walton Mosses",
+      "LONGITUDE": "2:48:12W",
+      "LATITUDE": "55:01:22N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hatfield Forest",
+      "LONGITUDE": "0:14:13E",
+      "LATITUDE": "51:51:26N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Wyre Forest",
+      "LONGITUDE": "2:21:08W",
+      "LATITUDE": "52:23:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Langley Wood",
+      "LONGITUDE": "1:40:17W",
+      "LATITUDE": "50:59:08N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Martin Down",
+      "LONGITUDE": "1:56:07W",
+      "LATITUDE": "50:59:29N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "North Solent",
+      "LONGITUDE": "1:25:00W",
+      "LATITUDE": "50:47:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Holt Heath",
+      "LONGITUDE": "1:55:19W",
+      "LATITUDE": "50:50:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ashford Hangers",
+      "LONGITUDE": "0:57:11W",
+      "LATITUDE": "51:02:11N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Newtown Harbour",
+      "LONGITUDE": "1:24:21W",
+      "LATITUDE": "50:43:07N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Durlston",
+      "LONGITUDE": "1:58:15W",
+      "LATITUDE": "50:36:16N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Hartland Moor",
+      "LONGITUDE": "2:04:08W",
+      "LATITUDE": "50:40:03N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Holton Heath",
+      "LONGITUDE": "2:04:06W",
+      "LATITUDE": "50:43:19N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Morden Bog",
+      "LONGITUDE": "2:07:27W",
+      "LATITUDE": "50:43:21N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Stoborough Heath",
+      "LONGITUDE": "2:05:23W",
+      "LATITUDE": "50:40:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Studland and Godlingston Heath",
+      "LONGITUDE": "1:58:02W",
+      "LATITUDE": "50:39:28N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Purbeck Heaths",
+      "LONGITUDE": "2:02:27W",
+      "LATITUDE": "50:40:06N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Orfordness-Havergate",
+      "LONGITUDE": "1:33:13E",
+      "LATITUDE": "52:05:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Lower Derwent Valley",
+      "LONGITUDE": "0:56:07W",
+      "LATITUDE": "53:53:04N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Saltwells",
+      "LONGITUDE": "2:06:00W",
+      "LATITUDE": "52:29:01N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Cassop",
+      "LONGITUDE": "1:28:22W",
+      "LATITUDE": "54:44:20N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Fenn's, Whixall & Bettisfield Mosses",
+      "LONGITUDE": "2:46:16W",
+      "LATITUDE": "52:55:27N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "Ribble Estuary",
+      "LONGITUDE": "2:58:10W",
+      "LATITUDE": "53:43:14N"
+    }
+  },
+  {
+    "type": "Feature",
+    "properties": {
+      "NNR_NAME": "King's Wood and Rushmere",
+      "LONGITUDE": "0:40:21W",
+      "LATITUDE": "51:57:21N"
+    }
+  }
+]

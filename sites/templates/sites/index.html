@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Nearby sites</title>
+</head>
+
+<body>
+
+    <h1>Nearby Sites</h1>
+    {% if sites %}
+    <ul>
+        {% for site in sites %}
+        <li>
+            {{ site.name }} : {{site.distance}}
+        </li>
+        {% endfor %}
+    </ul>
+    {% endif %}
+</body>
+</html>
