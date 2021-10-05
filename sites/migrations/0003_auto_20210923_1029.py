@@ -4,6 +4,7 @@ from django.db import migrations
 from ..helpers import parse_dms
 import json
 from django.contrib.gis.geos import fromstr
+import sys
 
 # load nature reserve data from geojson file
 def load_data(apps, schema_editor):
@@ -40,4 +41,4 @@ class Migration(migrations.Migration):
     # the second argument makes this migration reversible, just in case
     operations = [
         migrations.RunPython(load_data, migrations.RunPython.noop)
-    ]
+    ] if 'test' not in sys.argv[1:] else []
