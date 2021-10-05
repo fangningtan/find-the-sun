@@ -8,7 +8,7 @@ from django.contrib.gis.geos import fromstr
 # load nature reserve data from geojson file
 def load_data(apps, schema_editor):
     Site = apps.get_model(app_label='sites', model_name='Site')
-    jsonfile = r'C:\Users\fangn\PycharmProjects\sunday\NNR_cleaned.json'
+    jsonfile = r'C:\Users\fangn\PycharmProjects\sunday\data\NNR_cleaned.json'
 
     with open(str(jsonfile)) as datafile:
         objects = json.load(datafile)
