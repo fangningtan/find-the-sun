@@ -42,7 +42,7 @@ MAPBOX_TOKEN = env('MAPBOX_TOKEN')
 
 # SECURITY WARNING: keep the secret key used in production secret!
 # TODO house this in the env variable when deployed to production
-SECRET_KEY = 'django-insecure-=w=vhrm26(#p9!3@th&$qxi(%g%y(hc@*mm@@v2%8a%a13*8&e'
+SECRET_KEY = env('SECRET_KEY')
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
@@ -102,7 +102,7 @@ DATABASES = {
         'ENGINE': 'django.contrib.gis.db.backends.postgis',
         'NAME': 'naturereserves',
         'USER': 'postgres',
-        'PASSWORD': 'adminpassword',
+        'PASSWORD': env('DATABASE_PASSWORD'),
         'HOST': 'localhost',
         'PORT': '5432'
     }
