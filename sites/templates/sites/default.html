@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Interactive maps for Django web apps</title>
+    <meta name="viewport" content="initial-scale=1,maximum-scale=1,user-scalable=no">
+
+    <!--Bootstrap-->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+
+    <!--TODO add CSS file-->
+
+    <!--Mapbox scripts -->
+    <link href="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.css" rel="stylesheet">
+    <script src="https://api.mapbox.com/mapbox-gl-js/v2.4.1/mapbox-gl.js"></script>
+</head>
+<body>
+<h1>Map time!</h1>
+<div id='map' width="100%" style='height:600px'></div>
+<!--   TODO store mapbox script in a separate JS folder -->
+<script>
+    // Receive results json for JS script
+    //var results = JSON.stringify({{results | safe}});
+    //console.log(results);
+
+    mapboxgl.accessToken = '{{ mapbox_access_token }}';
+    var map = new mapboxgl.Map({
+     container: 'map',
+     style: 'mapbox://styles/mapbox/streets-v11',
+     center: [-0.1874, 51.5530], // starting position [lng, lat]
+     zoom: 10 // starting zoom
+    });
+
+    map.on('load', function () {
+      map.addSource('sites', {
+         type: 'geojson',
+         data: {
+             "type": "FeatureCollection",
+             "features": [{% for point in results %}
+               {
+                 "type": "Feature",
+                 "properties": {
+                   "name": "{{ point.name }}"
+                 },
+                 "geometry": {
+                   "type": "Point",
+                   "coordinates": [{{ point.coordinates_geodjango }}]
+                 }
+               {% if forloop.last %}} {% else %}}, {% endif %}{% endfor %}
+             ]
+         }
+      });
+
+      map.addLayer({
+        "id": "results-layer",
+        "type": "circle",
+        "source": "sites", // Here is the part where you add the source to a layer.
+        "paint": {
+          'circle-radius': 6,
+          'circle-color': '#B42222'
+        },
+        'filter': ['==', '$type', 'Point']
+      });
+    });
+</script>
+</body>
+</html>

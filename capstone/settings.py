@@ -29,10 +29,19 @@ from pathlib import Path
 BASE_DIR = Path(__file__).resolve().parent.parent
 
 
+import environ
+# Initialise environment variables
+env = environ.Env()
+environ.Env.read_env()
+
+# Mapbox token
+MAPBOX_TOKEN = env('MAPBOX_TOKEN')
+
 # Quick-start development settings - unsuitable for production
 # See https://docs.djangoproject.com/en/3.2/howto/deployment/checklist/
 
 # SECURITY WARNING: keep the secret key used in production secret!
+# TODO house this in the env variable when deployed to production
 SECRET_KEY = 'django-insecure-=w=vhrm26(#p9!3@th&$qxi(%g%y(hc@*mm@@v2%8a%a13*8&e'
 
 # SECURITY WARNING: don't run with debug turned on in production!

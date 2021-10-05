@@ -8,3 +8,6 @@ class Site(models.Model):
     name = models.CharField(max_length=100, unique=True)
     location = models.PointField()
 
+    def coordinates_geodjango(self):
+        return str(self.location.x) + ', ' + str(self.location.y)
+
